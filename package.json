@@ -4,8 +4,7 @@
   "description": "Observes the Hive base-layer internal HIVE/HBD market book, spread, and depth cross-checked across two public nodes, the recent ticker and volume, the feed's median price, the external HIVE and HBD USD prices, the resulting haircut, and the HBD conversion queue, read-only.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/computer-systems-engineering-services-section.git",
-    "directory": "services/computer-blockchain-system-services-section/services/hive-engineering-services-section/services/observe-hive-internal-market-service"
+    "url": "git+https://github.com/red-cup-engineering/observe-hive-internal-market-service.git"
   },
   "type": "module",
   "private": false,
