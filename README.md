@@ -1,5 +1,12 @@
 # @red-cup-engineering/observe-hive-internal-market-service
 
+<!-- 561-group-standards:badges:start -->
+[![Red Cup Engineering](https://img.shields.io/badge/561%20Group-Red%20Cup%20Engineering-c0392b)](https://github.com/red-cup-engineering)
+[![License: MIT](https://img.shields.io/badge/license-MIT-c0392b)](LICENSE)
+[![Indigenous data: CARE](https://img.shields.io/badge/Indigenous%20data-CARE-4b6f44)](https://github.com/red-cup-engineering/.github/blob/main/GOVERNANCE.md)
+[![Tips welcome](https://img.shields.io/badge/tips-welcome-d4a017)](https://github.com/561-group/.github/blob/main/TIPS.md)
+<!-- 561-group-standards:badges:end -->
+
 Observes the Hive base-layer internal HIVE/HBD market book, spread, and depth cross-checked across two public nodes, the recent ticker and volume, the feed's median price, the external HIVE and HBD USD prices, the resulting haircut, and the HBD conversion queue, read-only.
 
 ## Operation
